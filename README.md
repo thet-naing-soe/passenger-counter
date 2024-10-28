@@ -1,1 +1,1 @@
-# passenger-counter for JS Project
+# passenger-counter for JS Project Practice
